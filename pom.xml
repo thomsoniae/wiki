@@ -60,7 +60,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.ruoqi.wiki.WikiApplication</mainClass>
+                    <mainClass>com.ruoqi.wiki.config.WikiApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
